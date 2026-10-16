@@ -6,3 +6,5 @@ i got Derootifier 1.2 from [here (web.archive.org)](https://web.archive.org/web/
 MImport from [here (julioverne.github.io)](https://julioverne.github.io/debfiles/com.julioverne.mimport_0.0~beta40_iphoneos-arm.deb)<br/>
 <br/>
 original repo for MImport is at [julioverne/MImport](https://github.com/julioverne/MImport)
+
+tested and confirmed to work so far is mp3 files
