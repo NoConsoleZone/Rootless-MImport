@@ -1,4 +1,4 @@
-# derootified-mimport
+# rootless mimport
 Julioverne's "MImport", ran through v1.2 of haxi0's Derootifier<br/>
 currently I'm only able to test this on my iPhone 6s on iOS 15.8.8 (Dopamine), so if anyone else can test this on another device or another iOS version, please do ^^<br/>
 <br/>
